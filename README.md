@@ -10,7 +10,7 @@ Data Analysis and Management: With the increasing importance of big data, comput
 
 Research and Education: Many computer scientists engage in research, contributing to the academic and scientific community. They also educate the next generation of tech professionals, sharing knowledge and skills that are critical for future innovations.
 
-#Approaching a Problem as a Computer Scientist
+# Approaching a Problem as a Computer Scientist
 Define the Problem: Clearly understand what the problem is and what the desired outcome looks like.
 
 Research and Analysis: Gather relevant information and analyze existing solutions or similar problems.
